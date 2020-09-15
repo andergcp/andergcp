@@ -7,15 +7,12 @@
 
 ```python
 ​
-from dataclasses import dataclass
-from typing import Tuple
-
 @dataclass
 class Stack:
-    languages   : Tuple[str, ...] = ("Python", "Go", "Bash")
-    databases   : Tuple[str, ...] = ("PostgreSQL", "Mongo", "Redis")
-    misc        : Tuple[str, ...] = ("Docker", "Celery")
-    ongoing     : Tuple[str, ...] = ("Django", "GraphQL")
+    languages   = ["Python", "C", "Javascript"]
+    databases   = ["MySQL"]
+    misc        = ["Docker", "NGINX", "Shell", "Linux"]
+    ongoing     = ["React", "Bootstrap"]
 ​
 ```
 </h3>
