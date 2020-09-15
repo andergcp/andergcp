@@ -1,16 +1,18 @@
-### Hi there 👋
+<!-- Zero width character is used to put extra blank lines before and after code -->
 
-<!--
-**andergcp/andergcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>
 
-Here are some ideas to get you started:
+```python
+​
+from dataclasses import dataclass
+from typing import Tuple
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@dataclass
+class Stack:
+    languages   : Tuple[str, ...] = ("Python", "Go", "Bash")
+    databases   : Tuple[str, ...] = ("PostgreSQL", "Mongo", "Redis")
+    misc        : Tuple[str, ...] = ("Docker", "Celery")
+    ongoing     : Tuple[str, ...] = ("Django", "GraphQL")
+​
+```
+</h3>
