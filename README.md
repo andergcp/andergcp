@@ -10,7 +10,7 @@
 class Human:
     programming_languages = ["Python", "C", "Javascript"]
     databases             = ["MySQL"]
-    misc                  = ["Docker", "NGINX", "Shell", "Linux"]
+    misc                  = ["Docker", "NGINX", "Shell", "Linux", "Git"]
     bachelors_degree      = ["Business Administrator"]
     human_languages       = ["English", "Spanish", "French"]
     ongoing               = ["React", "Bootstrap"]
