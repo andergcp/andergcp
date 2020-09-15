@@ -19,46 +19,8 @@ class Human:
 ```
 </h3>
 
-<h2>📝 Statistics: </h2>
+<h2>Statistics: </h2>
       <h3>My stack: </h3>
       <h6>📒&emsp;<a href="https://github.com/andergcp?tab=repositories&q=&type=&language=python">Python</a> ( Middle )</h6>
       <h6>📗&emsp;<a href="https://github.com/andergcp?tab=repositories&q=&type=&language=c">C</a> ( Junior )</h6>
       <h6>📘&emsp;<a href="https://github.com/andergcp?tab=repositories&q=&type=&language=javascript">JavaScript</a> ( Intern )</h6>
-<h2>📊 Weekly development breakdown: </h2>
-<table>
-                <tr>
-                    <td width=215px;>
-                        Python
-                    </td>
-                    <td>
-                        4 hrs 40 mins
-                    </td>
-                    <td>
-                        █████████░&nbsp;&nbsp;(95.73 %)
-                    </td>
-                </tr>
-                <tr>
-                    <td width=220px;>
-                        JavaScript
-                    </td>
-                    <td width=145px;>
-                        7 mins
-                    </td>
-                    <td width=230px;>
-                        ░░░░░░░░░░░&nbsp;&nbsp;(2.73 %)
-                    </td>
-                </tr>
-                <tr>
-                    <td width=220px;>
-                        CSS
-                    </td>
-                    <td width=145px;>
-                        2 mins
-                    </td>
-                    <td width=230px;>
-                        ░░░░░░░░░░░&nbsp;&nbsp;(0.85 %)
-                    </td>
-                </tr></table>
-<hr>
-<h4 align="center">Other – <a href='https://feschenko.org' target="_blank">feschenko.org</a><h4>
-    
