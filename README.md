@@ -8,12 +8,12 @@
 ```python
 ​
 class Human:
-    languages         = ["Python", "C", "Javascript"]
-    databases         = ["MySQL"]
-    misc              = ["Docker", "NGINX", "Shell", "Linux"]
-    bachelor_degrees  = ["Business Administrator"]
-    human_languages   = ["English", "Spanish", "French"]
-    ongoing           = ["React", "Bootstrap"]
+    programming_languages = ["Python", "C", "Javascript"]
+    databases             = ["MySQL"]
+    misc                  = ["Docker", "NGINX", "Shell", "Linux"]
+    bachelors_degree      = ["Business Administrator"]
+    human_languages       = ["English", "Spanish", "French"]
+    ongoing               = ["React", "Bootstrap"]
     
 ​
 ```
