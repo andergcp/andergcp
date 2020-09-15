@@ -26,5 +26,5 @@ class Human:
       <h6>📘&emsp;<a href="https://github.com/andergcp?tab=repositories&q=&type=&language=javascript">JavaScript</a> ( Intern )</h6>
       
 <a href="https://github.com/andergcp/andergcp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andergcp&hide=java,html&title_color=000000&text_color=000000&icon_color=2bbc8a&bg_color=ffffff&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andergcp&hide=java,html&title_color=000000&text_color=000000&icon_color=2bbc8a&bg_color=ffffff&langs_count=2" />
 </a>
