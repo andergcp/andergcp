@@ -19,8 +19,8 @@ class Human:
 ```
 </h3>
 
-<h2>Statistics: </h2>
-      <h3>My stack: </h3>
+<h3>Statistics: </h3>
+      <h4>My stack: </h4>
       <h6>📒&emsp;<a href="https://github.com/andergcp?tab=repositories&q=&type=&language=python">Python</a> ( Middle )</h6>
       <h6>📗&emsp;<a href="https://github.com/andergcp?tab=repositories&q=&type=&language=c">C</a> ( Junior )</h6>
       <h6>📘&emsp;<a href="https://github.com/andergcp?tab=repositories&q=&type=&language=javascript">JavaScript</a> ( Intern )</h6>
