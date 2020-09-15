@@ -23,16 +23,10 @@ class Human:
 <table>
   <tr>
     <td valign="top">
-      <h3>Most starred repos: </h3>
-            <h6>⭐️&nbsp;&nbsp;&nbsp;5&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;830 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;22 – <a href='https://github.com/xcaq/spotify-transfer'>spotify-transfer</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;8&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;160 – <a href='https://github.com/xcaq/spotify-to-vk'>spotify-to-vk</a></h6> 
-    </td>
-    <td valign="top">
       <h3>My stack: </h3>
-      <h6>📒&emsp;<a href="https://github.com/xcaq?tab=repositories&q=&type=&language=python">Python</a> ( Middle )</h6>
-      <h6>📗&emsp;<a href="https://github.com/xcaq?tab=repositories&q=&type=&language=c%23">C#</a> ( Junior )</h6>
-      <h6>📘&emsp;<a href="https://github.com/xcaq?tab=repositories&q=&type=&language=golang">Golang</a> ( Intern )</h6>
+      <h6>📒&emsp;<a href="https://github.com/andergcp?tab=repositories&q=&type=&language=python">Python</a> ( Middle )</h6>
+      <h6>📗&emsp;<a href="https://github.com/andergcp?tab=repositories&q=&type=&language=c">C</a> ( Junior )</h6>
+      <h6>📘&emsp;<a href="https://github.com/andergcp?tab=repositories&q=&type=&language=javascript">JavaScript</a> ( Intern )</h6>
       </td>
      <td valign="top">
       <h3>New repositories: </h3>
