@@ -8,8 +8,8 @@
 ```python
 ​
 class Human:
-    programming_languages = ["Python", "C", "Javascript"]
-    databases             = ["MySQL"]
+    programming_languages = ["Python", "C", "Javascript", "Java"]
+    databases             = ["MySQL", Postgres"]
     misc                  = ["Docker", "NGINX", "Shell", "Linux", "Git"]
     bachelors_degree      = ["Business Administrator"]
     human_languages       = ["English", "Spanish", "French"]
